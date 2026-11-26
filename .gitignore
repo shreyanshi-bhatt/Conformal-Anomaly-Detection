@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+*.pyc
+
+results/cache/
+results/experiments_log.txt
+report_overleaf.zip
